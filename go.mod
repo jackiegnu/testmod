@@ -1,3 +1,3 @@
-module github.com/jackiegnu/testmod/v2
+module github.com/jackiegnu/testmod/v3
 
 go 1.14
